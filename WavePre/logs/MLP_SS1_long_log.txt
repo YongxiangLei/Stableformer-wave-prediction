@@ -1,0 +1,3 @@
+Test MSE: 1.7996, Test RMSE: 1.3415, Test MAE: 1.0729
+Test MSE: 1.7996, Test RMSE: 1.3415, Test MAE: 1.0729
+Test MSE: 1.7996, Test RMSE: 1.3415, Test MAE: 1.0729

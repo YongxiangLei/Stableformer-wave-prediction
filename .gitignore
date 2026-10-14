@@ -1,0 +1,13 @@
+﻿
+/WavePre/Lib/
+/WavePre/Scripts/
+/WavePre/Include/
+/WavePre/share/
+/WavePre/pyvenv.cfg
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/

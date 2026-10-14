@@ -1,0 +1,3 @@
+Test MSE: 2.3226, Test RMSE: 1.5240, Test MAE: 1.2158
+Test MSE: 2.3226, Test RMSE: 1.5240, Test MAE: 1.2158
+Test MSE: 2.3226, Test RMSE: 1.5240, Test MAE: 1.2158
